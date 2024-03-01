@@ -56,3 +56,7 @@ To run tests, run the following command
 - Ensure that you have a working microphone connected to your system.
 - The recorded audio is saved in WAV format with a default filename of "recorded_audio.wav" (modifiable in the entry field).
 - The sample rate is set to 44100 Hz, and the sample width is set to 24 bits.
+
+## Demo
+
+https://github.com/amandange2001/Voice-Recorder/assets/100614486/e328a50e-68b9-4807-80b7-9f20d1f2a1e8
